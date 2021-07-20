@@ -1,4 +1,4 @@
-#Interpolation
+# Interpolation
 
 * Create a table of values for x and y=tan(x), for x = 1, 1.1, 1.2 and 1.3
 * Use this table of values to interpolate and find the value for y at x=1.15 and x=1.35
